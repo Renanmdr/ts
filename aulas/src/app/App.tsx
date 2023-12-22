@@ -1,3 +1,4 @@
+import {AppRoutes} from "./routes"
 
 
 
@@ -6,7 +7,7 @@ function App() {
 
   return (
     <>
-      <p></p>
+      <AppRoutes />
     </>
   )
 }
